@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Viprajay+Dhali;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lavi+Rajput;" />
 </h1>
-<h3 align="center">A passionate about innovation from Uttarakhand India</h3>
+<h3 align="center">A passionate about innovation from Uttar Pradesh India</h3>
 <img align = "right" alt="Coding" width ="400" src="https://github.com/viprajay/viprajay/blob/main/gifphoto.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viprajay&label=Profile%20views&color=0e75b6&style=flat" alt="viprajay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viprajay&label=Profile%20views&color=0e75b6&style=flat" alt="lavi" /> </p>
 
 - 🔭 I’m currently working on **React**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **dhaliviprajay@gmail.com**
+- 📫 How to reach me **lavirajput7902@gmail.com.com**
 
 - ⚡ Fun fact **We are engineers**
 
@@ -26,6 +26,6 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viprajay&show_icons=true&locale=en&layout=compact" alt="viprajay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viprajay&show_icons=true&locale=en" alt="viprajay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viprajay&show_icons=true&locale=en" alt="lavi" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viprajay&" alt="viprajay" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viprajay&" alt="lavi" /></p>
